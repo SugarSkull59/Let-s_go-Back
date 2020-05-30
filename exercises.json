@@ -1,0 +1,27 @@
+[
+  {
+    "model": "exercise",
+    "documents": [
+      {
+        "name": "Dumbbell chest press",
+        "muscle_involved": "Pectoral",
+        "img": "https://www.deportesdeciudad.com/wp-content/uploads/2019/04/press-pecho-con-mancuernas-e1555148818933.png"
+      },
+      {
+        "name": "Power clean",
+        "muscle_involved": "Pectoral",
+        "img": "https://www.deportesdeciudad.com/wp-content/uploads/2019/04/press-pecho-con-mancuernas-e1555148818933.png"
+      },
+      {
+        "name": "Dumbbell split squat",
+        "muscle_involved": "quadriceps",
+        "img": "https://i.pinimg.com/originals/99/44/e5/9944e58242f0b5cd5c6be324fcdde9b2.jpg"
+      },
+      {
+        "name": "Swing",
+        "muscle_involved": "Pectoral",
+        "img": "https://www.deportesdeciudad.com/wp-content/uploads/2019/04/press-pecho-con-mancuernas-e1555148818933.png"
+      }
+    ]
+  }
+]
